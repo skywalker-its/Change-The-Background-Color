@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-CLASS 20 PROJECT BOILERPLATE
+# p5.play-Change the background
+CLASS 20 PROJECT CHANGE THE BACKGROUND COLOR IN GRAY SCALE
